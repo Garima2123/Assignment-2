@@ -112,4 +112,3 @@ func main() {
 
 	fmt.Println(t, t.Left, t.Right)
 }
-@ghost
